@@ -3,7 +3,7 @@
 
 # Graphical abstract of the paper and project
 
-![GA_revised](https://github.com/abarcaortega/Paper_CDC_METHOD_AAO/assets/46452875/60091a84-a8c1-491a-9e32-0fde6ad99d96)
+![GA_revised](https://github.com/abarcaortega/Paper_CDC_METHOD/assets/46452875/dc1abe7b-b2ca-431f-a0a4-dfcceac655dd)
 
 
 # For citation
