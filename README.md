@@ -8,4 +8,4 @@
 
 # For citation
 
-Abarca Ortega, Aldo and González Bermúdez, Blanca and Castro Domínguez, Cristina and Álvarez López, Aroa and Díaz Alcaraz, Cristina and Garvía Rodríguez, María and Guinea, Gustavo V. and Plaza, Gustavo R., Single-Cell Mechanical Characterization in Constriction-Based Cytometry. Available at SSRN: https://ssrn.com/abstract=4573377 or http://dx.doi.org/10.2139/ssrn.4573377
+Abarca-Ortega, A., González-Bermúdez, B., Castro-Domínguez, C., Álvarez-López, A., Díaz-Alcaraz, C., Garvía-Rodríguez, M., Guinea, G. V., & Plaza, G. R. (2024). Single-cell mechanical characterization in constriction-based cytometry. In International Journal of Mechanical Sciences (p. 108979). Elsevier BV. https://doi.org/10.1016/j.ijmecsci.2024.108979
